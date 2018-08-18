@@ -9,7 +9,7 @@ SYSTEM REQUIREMENTS:
 - Linux x86/x86_64 (Kernel >= 2.6.24, libgtk+-2.0 >= 2.24.13)
 
 SUPPORTED FIRMWARES:
-- iOS 5.1.1 (iOS 5.1 not supported now)
+- iOS 5.1.1 (iOS 5.1 is not supported now)
 
 INSTRUCTIONS:
 - Backup your device using iTunes (or iCloud) before usingn. If something breaks, you'll always be able to recover your data.
